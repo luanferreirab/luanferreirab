@@ -1,5 +1,5 @@
 ### Olá! Eu sou Luan Ferreira 👋
 
 
-- 🔭 Hoje trabalho como Auxiliar de Escritório
+- 🔭 Hoje trabalho como Suporte de TI
 - 🌱 Estudando programação 
