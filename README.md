@@ -1,4 +1,4 @@
-### Olá! Eu sou Luan Ferreira 👋
+### Olá, Eu sou Luan Ferreira 👋
 
 
 - 🔭 Hoje trabalho como Suporte de TI
