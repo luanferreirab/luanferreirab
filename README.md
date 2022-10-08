@@ -28,5 +28,6 @@
   <a href="https://www.linkedin.com/in/luan-ferreira-5b6436235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/profile.php?id=100007398462199" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   
-  
+![Snake animation](https://github.com/luanferreirab/luanferreirab/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
