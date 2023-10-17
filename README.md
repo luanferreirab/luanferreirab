@@ -1,7 +1,7 @@
 ### Olá, Sou Luan Ferreira 👋
 
 
-- 🔭 Hoje trabalho como Suporte de TI
+- 🔭 Desenvolvedor Front End Junior
 - 🌱 Estudando programação 
 
 <div align="center">
