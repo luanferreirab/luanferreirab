@@ -25,7 +25,7 @@ Sou Estudante de Engenharia de software na instituição de ensino Estácio de S
 </div>  
 
   
-## Tecnologias que estou usando atualmente
+## Tecnologias que estou estudando atualmente
 
 <div>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
